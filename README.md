@@ -1,5 +1,5 @@
 
-## Wheat Seed Classification and Clustering
+## Wheat Seed K-Nearest-Neighbors Classification and KMeans Clustering
 
 This project demonstrates supervised and unsupervised learning techniques applied to a dataset of wheat seed characteristics. Using k-Nearest Neighbors (k-NN) for classification and K-Means clustering, we explore different approaches to analyze and group the data based on its features.
 
